@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4 Phase 1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About Alc</string>
+    <string name="welcome">Welcome to Alc 4.0</string>
+    <string name="email">wojuolaayo@gmail.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="number">2348121472495</string>
+    <string name="my_name">Wojuola Ayotola</string>
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+    <string name="ayusma">\@Ayusma</string>
+</resources>
